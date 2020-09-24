@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Cold School
 
 You can use the [editor on GitHub](https://github.com/sandeepec2/cold.school/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
